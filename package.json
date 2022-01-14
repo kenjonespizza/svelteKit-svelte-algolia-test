@@ -1,0 +1,19 @@
+{
+  "name": "sveltekit-svelte-algolia-test",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/kit": "next",
+    "dotenv": "^11.0.0",
+    "svelte": "^3.44.0",
+    "svelte-algolia": "^0.2.11",
+    "axios": "^0.24.0"
+  },
+  "type": "module"
+}
